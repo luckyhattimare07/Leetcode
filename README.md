@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/luckyhattimare07/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/luckyhattimare07/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0932-monotonic-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0932-monotonic-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/luckyhattimare07/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
