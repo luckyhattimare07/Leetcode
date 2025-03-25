@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/luckyhattimare07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
 | ------- |
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0932-monotonic-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0932-monotonic-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
