@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/luckyhattimare07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/luckyhattimare07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/luckyhattimare07/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/luckyhattimare07/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/luckyhattimare07/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/luckyhattimare07/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Prefix Sum
 |  |
 | ------- |
