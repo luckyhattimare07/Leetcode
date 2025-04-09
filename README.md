@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0932-monotonic-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/luckyhattimare07/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/luckyhattimare07/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/luckyhattimare07/Leetcode/tree/master/2050-count-good-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/luckyhattimare07/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+## Sorting
+|  |
+| ------- |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/luckyhattimare07/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 <!---LeetCode Topics End-->
