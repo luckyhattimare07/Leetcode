@@ -93,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/luckyhattimare07/Leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/luckyhattimare07/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/luckyhattimare07/Leetcode/tree/master/1827-invalid-tweets) |
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/luckyhattimare07/Leetcode/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/luckyhattimare07/Leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
