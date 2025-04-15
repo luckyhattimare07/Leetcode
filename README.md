@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/luckyhattimare07/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/luckyhattimare07/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/luckyhattimare07/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/luckyhattimare07/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/luckyhattimare07/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0932-monotonic-array) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/luckyhattimare07/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/luckyhattimare07/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
