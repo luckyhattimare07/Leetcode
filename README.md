@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0932-monotonic-array) |
 | [1036-rotting-oranges](https://github.com/luckyhattimare07/Leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/luckyhattimare07/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/luckyhattimare07/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/luckyhattimare07/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/luckyhattimare07/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/luckyhattimare07/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/luckyhattimare07/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1036-rotting-oranges](https://github.com/luckyhattimare07/Leetcode/tree/master/1036-rotting-oranges) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/luckyhattimare07/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Database
 |  |
 | ------- |
@@ -192,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/luckyhattimare07/Leetcode/tree/master/1036-rotting-oranges) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/luckyhattimare07/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 <!---LeetCode Topics End-->
