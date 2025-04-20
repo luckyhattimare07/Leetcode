@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/luckyhattimare07/Leetcode/tree/master/0051-n-queens) |
 | [0907-koko-eating-bananas](https://github.com/luckyhattimare07/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0932-monotonic-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luckyhattimare07/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/luckyhattimare07/Leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/luckyhattimare07/Leetcode/tree/master/0051-n-queens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
