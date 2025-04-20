@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/luckyhattimare07/Leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/luckyhattimare07/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/luckyhattimare07/Leetcode/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/luckyhattimare07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-koko-eating-bananas](https://github.com/luckyhattimare07/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luckyhattimare07/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/luckyhattimare07/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/luckyhattimare07/Leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/luckyhattimare07/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/luckyhattimare07/Leetcode/tree/master/0051-n-queens) |
 ## Heap (Priority Queue)
 |  |
