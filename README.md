@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luckyhattimare07/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/luckyhattimare07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/luckyhattimare07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/luckyhattimare07/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/luckyhattimare07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/luckyhattimare07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/luckyhattimare07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/luckyhattimare07/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0932-monotonic-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/luckyhattimare07/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/luckyhattimare07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/luckyhattimare07/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/luckyhattimare07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Breadth-First Search
