@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/luckyhattimare07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/luckyhattimare07/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/luckyhattimare07/Leetcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/luckyhattimare07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-koko-eating-bananas](https://github.com/luckyhattimare07/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0932-monotonic-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/luckyhattimare07/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/luckyhattimare07/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/luckyhattimare07/Leetcode/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/luckyhattimare07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/luckyhattimare07/Leetcode/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1036-rotting-oranges](https://github.com/luckyhattimare07/Leetcode/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/luckyhattimare07/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Counting
