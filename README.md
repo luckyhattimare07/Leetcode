@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/luckyhattimare07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/luckyhattimare07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/luckyhattimare07/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/luckyhattimare07/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/luckyhattimare07/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/luckyhattimare07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/luckyhattimare07/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/luckyhattimare07/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/luckyhattimare07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/luckyhattimare07/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/luckyhattimare07/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/luckyhattimare07/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/luckyhattimare07/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/luckyhattimare07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/luckyhattimare07/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/luckyhattimare07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Breadth-First Search
 |  |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/luckyhattimare07/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/luckyhattimare07/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/luckyhattimare07/Leetcode/tree/master/0013-roman-to-integer) |
+| [1370-count-number-of-nice-subarrays](https://github.com/luckyhattimare07/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/luckyhattimare07/Leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
