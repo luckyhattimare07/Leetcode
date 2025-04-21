@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/luckyhattimare07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luckyhattimare07/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/luckyhattimare07/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/luckyhattimare07/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/luckyhattimare07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/luckyhattimare07/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/luckyhattimare07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/luckyhattimare07/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/luckyhattimare07/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/luckyhattimare07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/luckyhattimare07/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/luckyhattimare07/Leetcode/tree/master/0051-n-queens) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/luckyhattimare07/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/luckyhattimare07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1036-rotting-oranges](https://github.com/luckyhattimare07/Leetcode/tree/master/1036-rotting-oranges) |
