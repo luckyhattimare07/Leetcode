@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/luckyhattimare07/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/luckyhattimare07/Leetcode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/luckyhattimare07/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/luckyhattimare07/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/luckyhattimare07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-koko-eating-bananas](https://github.com/luckyhattimare07/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/luckyhattimare07/Leetcode/tree/master/0932-monotonic-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/luckyhattimare07/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/luckyhattimare07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/luckyhattimare07/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/luckyhattimare07/Leetcode/tree/master/0066-plus-one) |
 | [1370-count-number-of-nice-subarrays](https://github.com/luckyhattimare07/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/luckyhattimare07/Leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
